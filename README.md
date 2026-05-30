@@ -1,4 +1,6 @@
-<h1 align="center">hey, I'm Nikhil</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=hey,%20I'm%20Nikhil&fontSize=42&fontAlignY=35" />
+</p>
 
 <p align="center">
   full stack dev in the making &nbsp;·&nbsp; React + Node.js &nbsp;·&nbsp; building things end-to-end
@@ -6,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/nikshrma">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@nikshrma-ffffff?style=flat-square&logo=github&logoColor=000000" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@nikshrma-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -39,56 +41,56 @@
 
 **languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgresql&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **frontend**
 
-![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-ffffff?style=flat-square&logo=vite&logoColor=000000)
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=000000)
-![CSS](https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=000000)
-![Express](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=000000)
-![Hono](https://img.shields.io/badge/Hono-ffffff?style=flat-square&logo=hono&logoColor=000000)
-![REST](https://img.shields.io/badge/REST%20APIs-ffffff?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-ffffff?style=flat-square&logo=socketdotio&logoColor=000000)
-![JWT](https://img.shields.io/badge/JWT-ffffff?style=flat-square&logo=jsonwebtokens&logoColor=000000)
-![NextAuth](https://img.shields.io/badge/NextAuth-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000)
-![bcrypt](https://img.shields.io/badge/bcrypt-ffffff?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-6B7280?style=flat-square)
 
 **databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=000000)
-![Prisma](https://img.shields.io/badge/Prisma-ffffff?style=flat-square&logo=prisma&logoColor=000000)
-![Indexing](https://img.shields.io/badge/Indexing-ffffff?style=flat-square)
-![Transactions](https://img.shields.io/badge/Transactions-ffffff?style=flat-square)
-![Concurrency](https://img.shields.io/badge/Concurrency%20Control-ffffff?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Indexing](https://img.shields.io/badge/Indexing-8B5CF6?style=flat-square)
+![Transactions](https://img.shields.io/badge/Transactions-14B8A6?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Concurrency%20Control-F97316?style=flat-square)
 
 **devops**
 
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=000000)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-ffffff?style=flat-square&logo=docker&logoColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff?style=flat-square&logo=githubactions&logoColor=000000)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff?style=flat-square&logo=cloudflare&logoColor=000000)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-ffffff?style=flat-square&logo=amazonaws&logoColor=000000)
-![Nginx](https://img.shields.io/badge/Nginx-ffffff?style=flat-square&logo=nginx&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-ffffff?style=flat-square&logo=redis&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=000000)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=000000)
-![pnpm](https://img.shields.io/badge/pnpm-ffffff?style=flat-square&logo=pnpm&logoColor=000000)
-![Turborepo](https://img.shields.io/badge/TurboRepo-ffffff?style=flat-square&logo=turborepo&logoColor=000000)
-![Zod](https://img.shields.io/badge/Zod-ffffff?style=flat-square&logo=zod&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/TurboRepo-000000?style=flat-square&logo=turborepo&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 ---
 
@@ -101,6 +103,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikshrma&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikshrma&theme=default&hide_border=true&background=ffffff" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikshrma&show_icons=true&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikshrma&hide_border=true" width="47%" />
 </p>
