@@ -23,17 +23,17 @@
 
 ### currently building
 
-**[Relay](https://github.com/nikshrma/Relay)** — a full stack real-time chat app with 1:1 WebSocket connections. fast, clean, no fluff.
+**[Relay](https://github.com/nikshrma/relay)** — a full stack real-time chat app with 1:1 WebSocket connections. fast, clean, no fluff.
 
 ---
 
 ### projects
 
-**[Relay](https://github.com/nikshrma/Relay)** — a full-duplex real-time chat app built on raw WebSockets (no Socket.IO).
+**[Relay](https://github.com/nikshrma/relay)** — a full-duplex real-time chat app built on raw WebSockets (no Socket.IO).
 
-**Wallet System** — a Next.js + Express monorepo wallet app with CI/CD (Docker + GitHub Actions) to AWS EC2.
+**[Wallet System](https://github.com/nikshrma/wallet-system)** — a Next.js + Express monorepo wallet app with CI/CD (Docker + GitHub Actions) to AWS EC2.
 
-**Medium-like Blogging Platform** — a Dockerized React + Express + Postgres blogging platform with shared Zod types.
+**[Medium-like Blogging Platform](https://github.com/nikshrma/medium)** — a Dockerized React + Express + Postgres blogging platform with shared Zod types.
 
 ---
 
