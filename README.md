@@ -23,17 +23,37 @@
 
 ### currently building
 
-**[Relay](https://github.com/nikshrma/relay)** — a full stack real-time chat app with 1:1 WebSocket connections. fast, clean, no fluff.
+<a href="https://github.com/nikshrma/relay">
+  <img src="https://img.shields.io/badge/Relay-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+a full-stack real-time chat app with 1:1 WebSocket connections. fast, clean, no fluff.
 
 ---
 
 ### projects
 
-**[Relay](https://github.com/nikshrma/relay)** — a full-duplex real-time chat app built on raw WebSockets (no Socket.IO).
+<a href="https://github.com/nikshrma/relay">
+  <img src="https://img.shields.io/badge/Relay-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**[Wallet System](https://github.com/nikshrma/wallet-system)** — a Next.js + Express monorepo wallet app with CI/CD (Docker + GitHub Actions) to AWS EC2.
+full-duplex real-time chat app built on raw WebSockets (no Socket.IO).
 
-**[Medium-like Blogging Platform](https://github.com/nikshrma/medium)** — a Dockerized React + Express + Postgres blogging platform with shared Zod types.
+<br>
+
+<a href="https://github.com/nikshrma/wallet-system">
+  <img src="https://img.shields.io/badge/Wallet_System-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+Next.js + Express monorepo wallet app with CI/CD (Docker + GitHub Actions) deployed to AWS EC2.
+
+<br>
+
+<a href="https://github.com/nikshrma/medium">
+  <img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+Dockerized React + Express + PostgreSQL blogging platform with shared Zod types.
 
 ---
 
