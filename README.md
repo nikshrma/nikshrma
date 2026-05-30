@@ -103,6 +103,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikshrma&show_icons=true&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikshrma&hide_border=true" width="47%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikshrma&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikshrma&hide_border=true" />
 </p>
