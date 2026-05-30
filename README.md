@@ -16,8 +16,8 @@
 
 ### about me
 
-- student by day, shipping code by night
-- full stack across frontend + backend
+- student by day, debugger by night, reader in the spaces between
+- currently exploring backend, devops, and system design
 
 ---
 
@@ -79,7 +79,6 @@
 ### 📬 find me
 
 - GitHub: https://github.com/nikshrma
-- Email: nikshrma2006@gmail.com
-- Email: nsharma5_be24@thapar.edu
+- Email: nikshrma2006@gmail.com / nsharma5_be24@thapar.edu
 
 ---
