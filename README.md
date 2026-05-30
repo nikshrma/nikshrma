@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  full stack dev in the making &nbsp;·&nbsp; React + Node.js &nbsp;·&nbsp; building things end-to-end
+  full stack dev in the making &nbsp;·&nbsp; building things end-to-end
 </p>
 
 <p align="center">
